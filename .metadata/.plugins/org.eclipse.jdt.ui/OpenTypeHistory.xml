@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=firstapp/C:\/Users\/AAMUNGE\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/6.0.3\/spring-security-core-6.0.3.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.security=/=/maven.artifactId=/spring-security-core=/=/maven.version=/6.0.3=/=/maven.scope=/compile=/&lt;org.springframework.security.authentication(AuthenticationProvider.class[AuthenticationProvider" modifiers="1537" timestamp="1683173787608"/>
+    <typeInfo handle="=firstapp/C:\/Users\/AAMUNGE\/.m2\/repository\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/10.1.8\/tomcat-embed-core-10.1.8.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.apache.tomcat.embed=/=/maven.artifactId=/tomcat-embed-core=/=/maven.version=/10.1.8=/=/maven.scope=/compile=/&lt;jakarta.servlet(Filter.class[Filter" modifiers="1537" timestamp="1683173787075"/>
+    <typeInfo handle="=couponservice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.anna.security{SecurityService.java[SecurityService" modifiers="513" timestamp="1683869338127"/>
+</typeInfoHistroy>

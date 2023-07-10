@@ -1,0 +1,5 @@
+
+ƒ	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(άλυ8±¥­Υ€1HRMINORZ
+CODE_SMELL
+|
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(άλυ8±¥­Υ€1H›RMAJORZBUG

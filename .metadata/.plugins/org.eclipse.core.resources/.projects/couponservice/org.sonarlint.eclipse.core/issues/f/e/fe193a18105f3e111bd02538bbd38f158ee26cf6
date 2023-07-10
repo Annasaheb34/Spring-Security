@@ -1,0 +1,10 @@
+
+
+java:S3305"RInject this field value directly into "authManager", the only method that uses it.(Ä‹¹«úÿÿÿÿ8ÔñÕª€1H‰RCRITICALZ
+CODE_SMELL
+u
+java:S1611;"=Remove the parentheses around the "securityContext" parameter(Š¦Î¯øÿÿÿÿ8ÎÄÀÊ€1HŠRMINORZ
+CODE_SMELL
+
+java:S11920"FDefine a constant instead of duplicating this literal "ADMIN" 4 times.(¹¥±ùÿÿÿÿÿ8ãèÕï‚1H‹RCRITICALZ
+CODE_SMELL

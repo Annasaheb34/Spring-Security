@@ -1,0 +1,20 @@
+
+
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8ƒ’û©ş0H«RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ŠÑ¥8ƒ’û©ş0H­RMAJORZ
+CODE_SMELL
+‰
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8ƒ’û©ş0H³RMINORZ
+CODE_SMELL
+s	java:S125""<This block of commented-out lines of code should be removed.(É‡«üüÿÿÿÿ8âà«ş0HµRMAJORZ
+CODE_SMELL
+n	java:S125%"<This block of commented-out lines of code should be removed.(³Ï¥ó8Ò¶é«ş0H¶RMAJORZ
+CODE_SMELL
+‚
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8ƒ’û©ş0H·RMINORZ
+CODE_SMELL
+™
+java:S1128
+"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ8ƒ’û©ş0H¹RMINORZ
+CODE_SMELL
